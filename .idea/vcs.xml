@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="VcsDirectoryMappings">
+    <mapping directory="$PROJECT_DIR$" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/TelegramMusicDeezer" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/moth2" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/music-bot" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/music_telebot" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/pleb-bot" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/tele/musicbot" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/tele/pleb-bot" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/telebot" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/telebot/TelegramMusicDeezer" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/telegram-music-downloader" vcs="Git" />
+  </component>
+</project>
